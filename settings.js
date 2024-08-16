@@ -22,7 +22,7 @@ global.ownername = 'Sadeepa Chamudith' //owner name
 global.botname = 'Bug Bot V1' //name of the bot
 
 //sticker details
-global.packname = 'Sticker By'
+global.packname = 'Sticker By Sadeepa Chamudith'
 global.author = 'Sadeepa Chamudith\n\nContact: +94740952096'
 
 //console view/theme
